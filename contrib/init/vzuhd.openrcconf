@@ -1,0 +1,26 @@
+# /etc/conf.d/vzuhd: config file for /etc/init.d/vzuhd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/vzuh/vzuh.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/vzuhd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/vzuhd.pid"
+
+# Where to write vzuhd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/vzuhd"
+
+# User and group to own vzuhd process
+#BITCOIND_USER="vzuh"
+#BITCOIND_GROUP="vzuh"
+
+# Path to vzuhd executable
+#BITCOIND_BIN="/usr/bin/vzuhd"
+
+# Nice value to run vzuhd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

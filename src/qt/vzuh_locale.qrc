@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/vzuh_bg.qm</file>
+        <file alias="de">locale/vzuh_de.qm</file>
+        <file alias="en">locale/vzuh_en.qm</file>
+        <file alias="es">locale/vzuh_es.qm</file>
+        <file alias="fi">locale/vzuh_fi.qm</file>
+        <file alias="fr">locale/vzuh_fr.qm</file>
+        <file alias="it">locale/vzuh_it.qm</file>
+        <file alias="ja">locale/vzuh_ja.qm</file>
+        <file alias="pl">locale/vzuh_pl.qm</file>
+        <file alias="pt">locale/vzuh_pt.qm</file>
+        <file alias="ru">locale/vzuh_ru.qm</file>
+        <file alias="sk">locale/vzuh_sk.qm</file>
+        <file alias="sv">locale/vzuh_sv.qm</file>
+        <file alias="vi">locale/vzuh_vi.qm</file>
+        <file alias="zh_CN">locale/vzuh_zh_CN.qm</file>
+        <file alias="zh_TW">locale/vzuh_zh_TW.qm</file>
+    </qresource>
+</RCC>

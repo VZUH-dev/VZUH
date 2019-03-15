@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=VZUH
+Comment=VZUH P2P Cryptocurrency
+Exec=vzuh-qt %u
+Terminal=false
+Type=Application
+Icon=vzuh128
+MimeType=x-scheme-handler/vzuh;
+Categories=Office;Finance;
+Name[en_US]=vzuh-qt.desktop.desktop
